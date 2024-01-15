@@ -1,0 +1,12 @@
+#Verify the following URL webpage functionality work or not.
+
+URL="www.app.vwo.com/#/login"
+
+Accepted usernames are:
+1.anthonygrimes@example.org
+2.:patricia44@example.net
+
+
+Accepted Password are:
+1.GT_VVjpv^9
+2.adAXqKlJ_1
